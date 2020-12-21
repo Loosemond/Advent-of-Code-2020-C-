@@ -1,0 +1,2 @@
+Para fazer build usar:
+g++ -std=c++17 ./day-1.cpp
