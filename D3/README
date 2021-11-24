@@ -1,0 +1,10 @@
+>>> To build use
+g++ -std=c++17 ./main.cpp
+>>> To debug use
+g++ -g -std=c++17 ./main.cpp
+
+
+gdb
+n -> next line 
+break <func name> -> setting a break point
+run -> running the program
