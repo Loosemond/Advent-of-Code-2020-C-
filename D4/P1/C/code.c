@@ -1,5 +1,5 @@
 // gcc ./code.c -o out
-
+// 1:40
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
