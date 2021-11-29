@@ -1,7 +1,4 @@
 #include <iostream>
-#include <fstream>
-// #include <vector>
-// #include <regex>
 
 using namespace std;
 
@@ -10,7 +7,6 @@ int main()
 
     freopen("input.txt", "r", stdin);
     string line;
-    int place = 127;
     int upperRows, lowerRows, upperColum, lowerColum, highest, seatID;
     highest = 0;
 
